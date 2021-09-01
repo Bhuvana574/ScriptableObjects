@@ -9,7 +9,8 @@ public class SetHumanInfo : MonoBehaviour
     public GameObject Image;
     public Text Name;
     public Text Age;
-
+    public Text Phoneno;
+    public Text Location;
     // Start is called before the first frame update
     void Start()
     {

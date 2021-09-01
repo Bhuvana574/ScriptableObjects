@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46d6610dcfa7fea47a94c2c7d686ef24, type: 3}
   m_Name: priya
   m_EditorClassIdentifier: 
-  name: 
-  age: 
-  icon: {fileID: 0}
+  Pname: Combat
+  age: 24
+  HImage: {fileID: 2800000, guid: 5435e6d4935cebc4e897556ab61cd128, type: 3}
+  Mobileno: 7347373757
+  Addr: vzm

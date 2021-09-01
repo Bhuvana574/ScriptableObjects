@@ -19,5 +19,7 @@ public class HumanPrefabs : MonoBehaviour
         setHumanInfo.Name.text = Info.Name;
         setHumanInfo.Age.text = Info.Age;
         setHumanInfo.Image.GetComponent<RawImage>().texture = Info.Image;
+        setHumanInfo.Phoneno.text = Info.Phoneno;
+        setHumanInfo.Location.text = Info.Location;
     }
 }
