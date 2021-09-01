@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46d6610dcfa7fea47a94c2c7d686ef24, type: 3}
   m_Name: bhuvana
   m_EditorClassIdentifier: 
-  name: 
-  age: 
-  icon: {fileID: 0}
+  Pname: Bhuvana
+  age: 12
+  icon: {fileID: 2800000, guid: ce723f55055d342feba6e014905485d7, type: 3}
